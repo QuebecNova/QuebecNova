@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @QuebecNova
 - 👀 I’m interested in coding and memes
-- 🌱 I’m currently learning JS, HTML, CSS
+- 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me - not yet
+- 📫 How to reach me - selllmenya@gmail.com
 
 <!---
 QuebecNova/QuebecNova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
