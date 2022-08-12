@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuebecNova
 - 👀 I’m interested in coding and memes
 - 🌱 I’m currently learning JS, React
-- 💞️ I’m looking to collaborate on ?
+- 💞️ I’m looking to collaborate on Open source
 - 📫 How to reach me - selllmenya@gmail.com
 
 <!---
